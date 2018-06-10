@@ -1,8 +1,8 @@
 /*
  * Node.h
  *
- *  Created on: Mar 5, 2010
- *      Author: mori
+ *  
+ *      
  */
 
 #ifndef NODE_H_
